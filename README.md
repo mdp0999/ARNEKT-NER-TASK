@@ -10,7 +10,7 @@
 #### run sh download_files.sh for downloading the training and test corpus
 
 ###### sh download_files.sh
-
+#####Used C-DAC pos taggers
 ## Make Submission File
 
 #### run python code/get_submission.py for creating submission files
