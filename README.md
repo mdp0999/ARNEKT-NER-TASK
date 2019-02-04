@@ -1,7 +1,7 @@
 # ARNEKT-NER-TASK
 
 
-# This read me file details how to prepare the submission file for IECSIL - 2018 tasks.
+# IECSIL - 2018 tasks.
 
 ## The base line model created using Term Document Matrix as a representation method and Multinomial Naive Bayes as a classifier
 
