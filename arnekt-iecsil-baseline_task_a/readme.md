@@ -17,4 +17,4 @@
 
 #Trained models were already attached in code foleder.
 #No need to train models again.
-#Just change the language code and test set number for results and execute get_submission.py in python3
+#Just change the language code and test set number for results and run get_submission.py in python3
